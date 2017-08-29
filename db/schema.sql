@@ -15,6 +15,6 @@ CREATE TABLE burgers
 
 SELECT * FROM burgers;
 
-DELETE FROM burgers WHERE id = 3;
+-- DELETE FROM burgers WHERE id = 3;
 
-DROP TABLE burgers;
+-- DROP TABLE burgers;
